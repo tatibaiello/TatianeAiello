@@ -1,0 +1,28 @@
+body {
+    font-family: "franklin gothic";
+    background-image: url("https://lh3.googleusercontent.com/proxy/gSlkENEiu6n3vdn1L8pxKVih8IXZFPLS8DRg7eSWfoE7_P_ZGsVu7c5baCDIj304qtJw-9QdFKOLvXvnZwcyYMbZck1rBzeaHAfn3RvVXns");
+    background-size: auto 100vh;
+    height: 100vh;
+  }
+  .menu {
+    background-color: #485665;
+  }
+  a {
+    color: #fff;
+    text-decoration: none;
+  }
+  a:hover {
+    text-decoration: underline;
+  }
+  .menu li {
+    list-style: none;
+  }
+  .menu ul {
+    display: flex;
+    justify-content: space-evenly;
+  }
+  .site-title,
+  .site-subtitle {
+    text-align: center;
+    color: #00324E;
+  }
